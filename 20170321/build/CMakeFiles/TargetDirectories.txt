@@ -1,0 +1,2 @@
+/home/geo/Desktop/20170321/build/src/CMakeFiles/base.dir
+/home/geo/Desktop/20170321/build/src/CMakeFiles/main.dir
